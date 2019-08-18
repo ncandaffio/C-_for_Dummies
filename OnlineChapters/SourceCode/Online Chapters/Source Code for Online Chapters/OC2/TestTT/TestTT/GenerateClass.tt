@@ -1,0 +1,5 @@
+<#@ output extension=".cs" #>
+
+public class TestClass
+{
+}
