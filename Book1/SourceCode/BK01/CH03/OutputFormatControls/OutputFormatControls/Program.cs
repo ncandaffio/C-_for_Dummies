@@ -47,6 +47,7 @@ namespace OutputFormatControls
                         try
                         {
                             Console.WriteLine(formatCommand, number);
+                            Console.WriteLine("Another way of writing it is: {0:N0}", number);
                         }
                         catch (Exception)
                         {

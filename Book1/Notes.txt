@@ -1,0 +1,18 @@
+#region / #endregion:
+    special comment code that creates an expandable / collapsable region within your code in Visual Studio
+
+After a program has been debuged in Visual Studios, an executible is created in the bin > Debug folder where the solution
+is stored
+
+For better comparisons on doubles, convert each number to a float or integer before the comparisons
+
+'\n' = New line
+'\t' = tab
+'\0' = null
+'\r' = return
+'\\' = backslash
+
+use String.Empty to initial strings istead of ""
+
+casting: (type)variableName
+

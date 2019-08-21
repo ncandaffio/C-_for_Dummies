@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\IsAllDigits\IsAllDigits\bin\Debug\IsAllDigits.exe.config
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\IsAllDigits\IsAllDigits\bin\Debug\IsAllDigits.exe
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\IsAllDigits\IsAllDigits\bin\Debug\IsAllDigits.pdb
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\IsAllDigits\IsAllDigits\obj\Debug\IsAllDigits.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\IsAllDigits\IsAllDigits\obj\Debug\IsAllDigits.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\IsAllDigits\IsAllDigits\obj\Debug\IsAllDigits.exe
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\IsAllDigits\IsAllDigits\obj\Debug\IsAllDigits.pdb

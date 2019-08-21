@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\OutputFormatControls\OutputFormatControls\bin\Debug\OutputFormatControls.exe.config
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\OutputFormatControls\OutputFormatControls\bin\Debug\OutputFormatControls.exe
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\OutputFormatControls\OutputFormatControls\bin\Debug\OutputFormatControls.pdb
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\OutputFormatControls\OutputFormatControls\obj\Debug\OutputFormatControls.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\OutputFormatControls\OutputFormatControls\obj\Debug\OutputFormatControls.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\OutputFormatControls\OutputFormatControls\obj\Debug\OutputFormatControls.exe
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH03\OutputFormatControls\OutputFormatControls\obj\Debug\OutputFormatControls.pdb

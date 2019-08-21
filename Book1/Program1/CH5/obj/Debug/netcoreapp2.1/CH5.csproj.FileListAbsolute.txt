@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\obj\Debug\netcoreapp2.1\CH5.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\obj\Debug\netcoreapp2.1\CH5.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\obj\Debug\netcoreapp2.1\CH5.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\obj\Debug\netcoreapp2.1\CH5.AssemblyInfo.cs
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\bin\Debug\netcoreapp2.1\CH5.deps.json
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\bin\Debug\netcoreapp2.1\CH5.runtimeconfig.json
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\bin\Debug\netcoreapp2.1\CH5.runtimeconfig.dev.json
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\bin\Debug\netcoreapp2.1\CH5.dll
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\bin\Debug\netcoreapp2.1\CH5.pdb
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\obj\Debug\netcoreapp2.1\CH5.dll
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\Program1\CH5\obj\Debug\netcoreapp2.1\CH5.pdb
