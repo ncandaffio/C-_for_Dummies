@@ -16,3 +16,6 @@ use String.Empty to initial strings istead of ""
 
 casting: (type)variableName
 
+arrays must be the same datatype
+
+collection classes can be different

@@ -24,6 +24,9 @@ namespace CH5
             Console.WriteLine("Enter the starting pricipal. (this must be positive)");
             decimal principal = new Decimal();
             decimal rate = new Decimal();
+            int duration = new Int32();
+            int units = 0;
+            string inputUnits = "";
             for (;;)
             {
                 for (; ; )
@@ -76,15 +79,66 @@ namespace CH5
                 }
             }
 
-            // Calculate the interest paid and the ending balance
-            decimal interestPaid = principal * (rate / 100);
-            decimal endingBalance = principal + interestPaid;
+            // Obtain the Duration
+            Console.WriteLine("Enter the duration");
+            for (; ; )
+            {
+                for (; ; )
+                {
+                    string inputDuration = Console.ReadLine();
+                    try
+                    {
+                        duration = Int32.Parse(inputDuration);
+                        break;
+                    }
+                    catch (Exception)
+                    {
+                        Console.WriteLine("You have not entered a number. Please try again");
+                    }
+                }
+                if (rate < 0)
+                {
+                    Console.WriteLine("The duration cannot be negative. Please try again");
+                }
+                else
+                {
+                    break;
+                }
+            }
 
-            Console.WriteLine("Principal      :{0:C}", principal);
-            Console.WriteLine("Interest Rate  :{0}%", rate);
-            Console.WriteLine();
-            Console.WriteLine("Interest Paid  :{0:C}", interestPaid);
-            Console.WriteLine("Ending Balance :{0:C}", endingBalance);
+            // Obtain the Units
+            Console.WriteLine("Enter the units of time (Days / Months / Years)");
+                while (units == 0)
+                {
+                    inputUnits = Console.ReadLine();
+                switch (inputUnits)
+                {
+                    case "Days":
+                        units = 365;
+                        break;
+                    case "Months":
+                        units = 12;
+                        break;
+                    case "Years":
+                        units = 1;
+                        break;
+                    default:
+                        Console.WriteLine("You have not entered a valid response. Please enter Days, Months, or Years");
+                        break;
+                }
+
+            }
+
+            // Loop through the durations and output the results
+            for (int i = 0; i <= duration; i++)
+            {
+                decimal interestPaid = principal * (rate / 100 / units);
+                principal += interestPaid;
+
+
+                // Output the status to the user
+                Console.WriteLine("At the end of {0} {1}, the interest paid was {2:C} and the ending balance was {3:C}", inputUnits.TrimEnd('s'), i, interestPaid, principal);
+            }
 
             // Wait for user to acknowledge the results
             Console.WriteLine("Press any key to terminate...");
