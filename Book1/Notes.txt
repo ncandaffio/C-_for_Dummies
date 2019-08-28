@@ -16,6 +16,10 @@ use String.Empty to initial strings istead of ""
 
 casting: (type)variableName
 
-arrays must be the same datatype
+arrays must be the same datatype. the letght of an array must be defined when its called
 
-collection classes can be different
+collection classes can be different types
+
+Each collection has it's own iterator class.
+
+All type of collections have an IEnumerator class

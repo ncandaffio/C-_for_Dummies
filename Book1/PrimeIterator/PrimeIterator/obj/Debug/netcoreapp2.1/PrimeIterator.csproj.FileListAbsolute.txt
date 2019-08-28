@@ -1,0 +1,11 @@
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\bin\Debug\netcoreapp2.1\PrimeIterator.deps.json
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\bin\Debug\netcoreapp2.1\PrimeIterator.runtimeconfig.json
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\bin\Debug\netcoreapp2.1\PrimeIterator.runtimeconfig.dev.json
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\bin\Debug\netcoreapp2.1\PrimeIterator.dll
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\bin\Debug\netcoreapp2.1\PrimeIterator.pdb
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\obj\Debug\netcoreapp2.1\PrimeIterator.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\obj\Debug\netcoreapp2.1\PrimeIterator.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\obj\Debug\netcoreapp2.1\PrimeIterator.AssemblyInfoInputs.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\obj\Debug\netcoreapp2.1\PrimeIterator.AssemblyInfo.cs
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\obj\Debug\netcoreapp2.1\PrimeIterator.dll
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\PrimeIterator\PrimeIterator\obj\Debug\netcoreapp2.1\PrimeIterator.pdb
