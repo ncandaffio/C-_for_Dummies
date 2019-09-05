@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH09\FactorialException\FactorialException\bin\Debug\FactorialException.exe.config
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH09\FactorialException\FactorialException\bin\Debug\FactorialException.exe
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH09\FactorialException\FactorialException\bin\Debug\FactorialException.pdb
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH09\FactorialException\FactorialException\obj\Debug\FactorialException.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH09\FactorialException\FactorialException\obj\Debug\FactorialException.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH09\FactorialException\FactorialException\obj\Debug\FactorialException.exe
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book1\SourceCode\BK01\CH09\FactorialException\FactorialException\obj\Debug\FactorialException.pdb
