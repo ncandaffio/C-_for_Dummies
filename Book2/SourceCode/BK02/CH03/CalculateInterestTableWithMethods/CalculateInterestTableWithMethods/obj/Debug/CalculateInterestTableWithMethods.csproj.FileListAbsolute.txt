@@ -1,0 +1,7 @@
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH03\CalculateInterestTableWithMethods\CalculateInterestTableWithMethods\bin\Debug\CalculateInterestTableWithMethods.exe.config
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH03\CalculateInterestTableWithMethods\CalculateInterestTableWithMethods\bin\Debug\CalculateInterestTableWithMethods.exe
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH03\CalculateInterestTableWithMethods\CalculateInterestTableWithMethods\bin\Debug\CalculateInterestTableWithMethods.pdb
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH03\CalculateInterestTableWithMethods\CalculateInterestTableWithMethods\obj\Debug\CalculateInterestTableWithMethods.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH03\CalculateInterestTableWithMethods\CalculateInterestTableWithMethods\obj\Debug\CalculateInterestTableWithMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH03\CalculateInterestTableWithMethods\CalculateInterestTableWithMethods\obj\Debug\CalculateInterestTableWithMethods.exe
+C:\Users\Nick\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH03\CalculateInterestTableWithMethods\CalculateInterestTableWithMethods\obj\Debug\CalculateInterestTableWithMethods.pdb

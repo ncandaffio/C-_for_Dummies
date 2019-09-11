@@ -15,12 +15,7 @@ namespace CalculateInterestTableWithMethods
             decimal duration = 0M;
             InputInterestData(ref principal, ref interest, ref duration);
 
-            // Section 2 -- Verify the data by mirroring it back to the user.
-            Console.WriteLine();  // Skip a line.
-            Console.WriteLine("Principal     = " + principal);
-            Console.WriteLine("Interest      = " + interest + "%");
-            Console.WriteLine("Duration      = " + duration + " years");
-            Console.WriteLine();
+            MirrorInput(duration, principal, interest);
 
             // Section 3 -- Finally, output the interest table.
             OutputInterestTable(principal, interest, duration);
@@ -28,6 +23,17 @@ namespace CalculateInterestTableWithMethods
             Console.WriteLine("Press Enter to terminate...");
             Console.Read();
         }
+
+        private static void MirrorInput(decimal duration, decimal principal, decimal interest)
+        {
+            // Section 2 -- Verify the data by mirroring it back to the user.
+            Console.WriteLine();  // Skip a line.
+            Console.WriteLine("Principal     = " + principal);
+            Console.WriteLine("Interest      = " + interest + "%");
+            Console.WriteLine("Duration      = " + duration + " years");
+            Console.WriteLine();
+        }
+
         // InputInterestData -- Retrieve from the keyboard the
         //    principal, interest, and duration information needed
         //    to create the future value table. (Implements Section 1.)

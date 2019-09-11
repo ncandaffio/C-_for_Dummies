@@ -4,3 +4,8 @@ Object Oriented Cocepts:
     Usable Interfaces - provides a standard way to interact with the program
     Access Control - Ensures the user can't break the program by usinging the tools you gave them
 
+Class Constructors:
+    ClassName()
+    Can take parameters or not
+    No return type, not even void
+
