@@ -1,0 +1,10 @@
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\bin\Debug\SimpleProgress.exe.config
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\bin\Debug\SimpleProgress.exe
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\bin\Debug\SimpleProgress.pdb
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\obj\Debug\SimpleProgress.csprojAssemblyReference.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\obj\Debug\SimpleProgress.Form1.resources
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\obj\Debug\SimpleProgress.Properties.Resources.resources
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\obj\Debug\SimpleProgress.csproj.GenerateResource.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\obj\Debug\SimpleProgress.csproj.CoreCompileInputs.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\obj\Debug\SimpleProgress.exe
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SourceCode\BK02\CH09\SimpleProgress\SimpleProgress\obj\Debug\SimpleProgress.pdb

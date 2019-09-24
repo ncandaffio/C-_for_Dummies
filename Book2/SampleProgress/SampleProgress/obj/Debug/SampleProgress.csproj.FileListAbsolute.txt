@@ -1,0 +1,10 @@
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\bin\Debug\SampleProgress.exe.config
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\bin\Debug\SampleProgress.exe
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\bin\Debug\SampleProgress.pdb
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\obj\Debug\SampleProgress.csprojAssemblyReference.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\obj\Debug\SampleProgress.ProgressBarForm.resources
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\obj\Debug\SampleProgress.Properties.Resources.resources
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\obj\Debug\SampleProgress.csproj.GenerateResource.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\obj\Debug\SampleProgress.csproj.CoreCompileInputs.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\obj\Debug\SampleProgress.exe
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\SampleProgress\SampleProgress\obj\Debug\SampleProgress.pdb
