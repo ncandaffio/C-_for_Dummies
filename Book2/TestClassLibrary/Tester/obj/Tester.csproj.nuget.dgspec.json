@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\Tester\\Tester.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\TestClassLibrary\\TestClassLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\TestClassLibrary\\TestClassLibrary.csproj",
+        "projectName": "TestClassLibrary",
+        "projectPath": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\TestClassLibrary\\TestClassLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\Tester\\Tester.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\Tester\\Tester.csproj",
+        "projectName": "Tester",
+        "projectPath": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\Tester\\Tester.csproj",
+        "packagesPath": "C:\\Users\\ncand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\Tester\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ncand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\TestClassLibrary\\TestClassLibrary.csproj": {
+                "projectPath": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\TestClassLibrary\\TestClassLibrary\\TestClassLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\HangmanCA\\HangmanCA\\HangmanCA.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\HangmanCA\\HangmanCA\\HangmanCA.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\HangmanCA\\HangmanCA\\HangmanCA.csproj",
+        "projectName": "HangmanCA",
+        "projectPath": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\HangmanCA\\HangmanCA\\HangmanCA.csproj",
+        "packagesPath": "C:\\Users\\ncand\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ncand\\OneDrive\\Documents\\GitHub\\C-_for_Dummies\\Book2\\HangmanCA\\HangmanCA\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\ncand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

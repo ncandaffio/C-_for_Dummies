@@ -1,0 +1,11 @@
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\bin\Debug\netcoreapp2.1\HangmanCA.deps.json
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\bin\Debug\netcoreapp2.1\HangmanCA.runtimeconfig.json
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\bin\Debug\netcoreapp2.1\HangmanCA.runtimeconfig.dev.json
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\bin\Debug\netcoreapp2.1\HangmanCA.dll
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\bin\Debug\netcoreapp2.1\HangmanCA.pdb
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\obj\Debug\netcoreapp2.1\HangmanCA.csprojAssemblyReference.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\obj\Debug\netcoreapp2.1\HangmanCA.csproj.CoreCompileInputs.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\obj\Debug\netcoreapp2.1\HangmanCA.AssemblyInfoInputs.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\obj\Debug\netcoreapp2.1\HangmanCA.AssemblyInfo.cs
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\obj\Debug\netcoreapp2.1\HangmanCA.dll
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\HangmanCA\HangmanCA\obj\Debug\netcoreapp2.1\HangmanCA.pdb

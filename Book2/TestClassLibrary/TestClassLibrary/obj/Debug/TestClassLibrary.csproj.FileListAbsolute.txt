@@ -1,0 +1,6 @@
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\TestClassLibrary\TestClassLibrary\bin\Debug\TestClassLibrary.dll
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\TestClassLibrary\TestClassLibrary\bin\Debug\TestClassLibrary.pdb
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.csprojAssemblyReference.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.dll
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book2\TestClassLibrary\TestClassLibrary\obj\Debug\TestClassLibrary.pdb

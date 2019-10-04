@@ -19,7 +19,7 @@ namespace SampleProgress
         private void DoSomethingLengthy(UpdateProgressCallback updateProgress)
         {
             int duration = 2000;
-            int updateInterval = duration / 10;
+            int updateInterval = 10;
 
             for (int i = 0; i < duration; i++)
             {
@@ -31,7 +31,7 @@ namespace SampleProgress
                 }
 
                 //Update every 10th
-                if (i % 10 == 0 && updateProgress != null)
+                if (i % updateInterval == 0 && updateProgress != null)
                 {
                     Console.WriteLine("Update progress");
                     updateProgress("Step " + i + " Complete");
