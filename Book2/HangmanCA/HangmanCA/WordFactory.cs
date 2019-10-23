@@ -62,7 +62,7 @@ namespace HangmanCA
         public string GetWord()
         {
             Random rand = new Random();
-            return library[rand.Next(library.Count)];
+            return library[rand.Next(library.Count)].ToUpper();
         }
             
 

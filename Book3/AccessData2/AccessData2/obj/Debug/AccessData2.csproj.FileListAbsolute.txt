@@ -1,0 +1,9 @@
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\bin\Debug\AccessData2.exe.config
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\bin\Debug\AccessData2.exe
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\bin\Debug\AccessData2.pdb
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\obj\Debug\AccessData2.Form1.resources
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\obj\Debug\AccessData2.Properties.Resources.resources
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\obj\Debug\AccessData2.csproj.GenerateResource.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\obj\Debug\AccessData2.csproj.CoreCompileInputs.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\obj\Debug\AccessData2.exe
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData2\AccessData2\obj\Debug\AccessData2.pdb

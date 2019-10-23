@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 
 namespace HangmanCA
 {
@@ -20,8 +21,8 @@ namespace HangmanCA
                 " / \\       / \\    <\\__  / \\  / \\   / \\   <\\__  < >  / \\   / \\   / \\    <\\__  / \\  / \\   / \\ \n" +
                 "                                                |                                           \n" +
                 "                                        o__     o                                           \n" +
-                "                                        <\\__ __/>                   press enter...          \n");
-            Console.Read();
+                "                                        <\\__ __/>                                           \n");
+            Thread.Sleep(2000);
             Console.Clear();
         }
 
@@ -168,9 +169,9 @@ namespace HangmanCA
             {
                 for (int i = 0; i < word.Length; i++)
                 {
-                    if (guessedLetters.Contains(word[i]))
+                    if (guessedLetters.Contains(Char.ToUpper(word[i])))
                     {
-                        letters.Append(word[i] + " ");
+                        letters.Append(Char.ToUpper(word[i]) + " ");
                     }
                     else
                     {

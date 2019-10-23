@@ -1,0 +1,15 @@
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\bin\Debug\AccessData.exe.config
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\bin\Debug\AccessData.exe
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\bin\Debug\AccessData.pdb
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\MainWindow.g.cs
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\App.g.cs
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\AccessData_MarkupCompile.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\AccessData_MarkupCompile.lref
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\MainWindow.baml
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\AccessData.g.resources
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\AccessData.Properties.Resources.resources
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\AccessData.csproj.GenerateResource.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\AccessData.csproj.CoreCompileInputs.cache
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\AccessData.exe
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\AccessData.pdb
+C:\Users\ncand\OneDrive\Documents\GitHub\C-_for_Dummies\Book3\AccessData\AccessData\obj\Debug\GeneratedInternalTypeHelper.g.cs

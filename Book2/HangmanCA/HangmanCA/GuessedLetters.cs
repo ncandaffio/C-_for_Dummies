@@ -35,5 +35,10 @@ namespace HangmanCA
             return "Letters Used: " + listOfLetters.ToString();
 
         }
+
+        public bool Contains(char letter)
+        {
+            return _letters.Contains(letter);
+        }
     }
 }
