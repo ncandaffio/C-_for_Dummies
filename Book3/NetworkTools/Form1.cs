@@ -8,6 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Net.NetworkInformation;
+using System.Net;
+using System.IO;
 
 namespace NetworkTools
 {
@@ -28,6 +30,17 @@ namespace NetworkTools
             {
                 toolStripStatusLabel1.Text = "Disconnected";
             }
+        }
+
+        private void Button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void DownloadFile(string remoteFile, string localFile)
+        {
+            FileStream localFileStream = new FileStream(localFile, FileMode.OpenOrCreate);
+            FtpWebRequest ftpRequest = (FtpWebRequest)WebRequest.Create(remoteFile);
         }
     }
 }
